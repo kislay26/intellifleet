@@ -1,0 +1,22 @@
+{
+  "name": "intellifleet-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "5",
+    "react-markdown": "^9.0.1",
+    "@tabler/icons-react": "^3.9.0",
+    "axios": "^1.7.0",
+    "eventsource-polyfill": "^1.0.31",
+    "dotenv": "^16.4.5"
+  }
+}
+
